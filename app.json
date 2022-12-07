@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "StatCycle_Bare",
+    "slug": "StatCycle_Bare",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
